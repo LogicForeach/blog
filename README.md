@@ -1,1 +1,1 @@
-# my-blog
+hexo+next
